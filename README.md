@@ -9,8 +9,8 @@
   On browser use: BASE_URL + "/swagger-ui.html"
 
   #### Sample screenshot:
+![example](https://github.com/combinator-cs/StudentConnectionsApp/assets/47257439/3cfd7783-9a4b-422d-8e5f-5233092c6fdd)
 
-![example](https://github.com/combinator-cs/StudentConnectionsApp/assets/47257439/2e8c0d94-f71a-4528-a591-f428f5ddfd06)
 
 
 
